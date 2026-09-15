@@ -80,3 +80,10 @@ pandas>=2.0.0
 ```
 
 ---
+
+## 📦 Dependencies & Submodules
+
+The baseline chess engine is included as a git submodule. To clone the full project:
+
+```bash
+git clone --recursive https://github.com/YOUR_USERNAME/
