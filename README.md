@@ -87,3 +87,8 @@ The baseline chess engine is included as a git submodule. To clone the full proj
 
 ```bash
 git clone --recursive https://github.com/YOUR_USERNAME/
+
+## Baseline
+The baseline is a standard python-chess minimax search at depth 3, 
+representing a typical CPU-bound software approach. 
+See `benchmarks/results/baseline_metrics.csv` for full metrics.
