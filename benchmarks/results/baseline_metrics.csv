@@ -1,0 +1,9 @@
+metric,value,unit
+search_depth,3,plies
+num_positions,100,count
+total_time,38.990,seconds
+avg_time_per_move,389.674,ms
+median_time_per_move,375.338,ms
+p95_time_per_move,589.403,ms
+positions_per_second,2.57,pos/s
+baseline_type,python-chess-minimax,string
