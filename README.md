@@ -1,9 +1,3 @@
-### 2. The Core Files (Copy & Paste)
-
-Here are the exact contents for the most important files to make the repo look professional immediately.
-
-#### `README.md`
-```markdown
 # 🦑 SpikeGambit: Neuromorphic Chess on FPGA
 
 **SpikeGambit** is a novel hardware-accelerated chess engine that utilizes a **Spiking Convolutional Neural Network (SCNN)** deployed on an FPGA for ultra-low-power tactical pattern recognition. 
