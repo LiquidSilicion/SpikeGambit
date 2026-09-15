@@ -1,0 +1,3 @@
+[submodule "baseline_engine"]
+	path = baseline_engine
+	url = https://github.com/LiquidSilicion/chess-engine-python.git
