@@ -1,0 +1,12 @@
+conv1_bias: scale=0.007292, zero_point=60
+conv1: scale=0.022653, zero_point=-40
+conv2_bias: scale=0.010753, zero_point=55
+conv2: scale=0.002809, zero_point=-3
+conv3_bias: scale=0.012784, zero_point=14
+conv3: scale=0.001815, zero_point=3
+fc1_bias: scale=0.009152, zero_point=-9
+fc1: scale=0.001385, zero_point=-12
+fc2_bias: scale=0.005490, zero_point=45
+fc2: scale=0.000907, zero_point=-10
+fc3_bias: scale=0.000164, zero_point=-65
+fc3: scale=0.000796, zero_point=-1
